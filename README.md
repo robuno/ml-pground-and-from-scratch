@@ -25,7 +25,7 @@ Topal Meryem'in üstüne  duyulcular bir eferrun,
 <ildizlarinci asirlarda vurursun.
 Birden mavi gözleri haber gibi bir adam gibi yaprakla azi bulunun atmadi.
 ```
-<img width="400" height="600" src="https://raw.githubusercontent.com/robuno/ml-pground-and-from-scratch/main/figures/n_gpt_losses1_nazim.png">
+<img width="100" height="600" src="https://raw.githubusercontent.com/robuno/ml-pground-and-from-scratch/main/figures/n_gpt_losses1_nazim.png">
 
 <!-- ![Train/Val Losses of Models](https://raw.githubusercontent.com/robuno/ml-pground-and-from-scratch/main/figures/n_gpt_losses1_nazim.png) -->
 
