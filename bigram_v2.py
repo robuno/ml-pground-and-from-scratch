@@ -265,3 +265,5 @@ print(decode(m.generate(context, max_new_tokens=500)[0].tolist()))
 
 print("Train losses:", train_losses)
 print("Val losses:",val_losses)
+
+print(f"n_embd: {n_embd} n_head: {n_head} n_layer: {n_layer} block_size: {block_size} // head-dim = {n_embd/n_head}")
