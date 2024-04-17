@@ -9,4 +9,4 @@ Here I collect some basic ML, NN models that I wrote from scratch to learn how t
 ### CLIP
 -  Shariatnia, M. (2021, April 7). Simple Implementation of OpenAI CLIP model: A Tutorial. Medium. https://towardsdatascience.com/simple-implementation-of-openai-clip-model-a-tutorial-ace6ff01d9f2
 
-![Correlation Matrices of CLIP](https://raw.githubusercontent.com/robuno/ml-pground-and-from-scratch/main/figures/clip_corr_matrices1.png)
+![Correlation Matrices of CLIP](https://raw.githubusercontent.com/robuno/ml-pground-and-from-scratch/main/figures/clip_corr_matrices2.png)
