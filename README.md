@@ -6,6 +6,28 @@ Here I collect some basic ML, NN models that I wrote from scratch to learn how t
 
 -  [NanoGPT lecture by Andrej Karpathy](https://github.com/karpathy/ng-video-lecture)
 
+Example output with Nazim Hikmet's poems:
+```
+ambayi girinde sordu ekrep olanmaya geldik,
+yukarda bütün senden çelişirsiz,
+ölmek istemiyordu yine dasina
+Niyida bir ada bir hanga verdi
+Madrid kalbimi ben
+Okranliğini bilmez orani
+
+Gözler ağizliğindan tütün adin
+Bile birakiz vurur bir rahat
+Budurunla da balik dururdu
+Yüz başlari suyu kendil yüzünü
+orta yildizlar anasini
+
+Topal Meryem'in üstüne  duyulcular bir eferrun,
+<ildizlarinci asirlarda vurursun.
+Birden mavi gözleri haber gibi bir adam gibi yaprakla azi bulunun atmadi.
+```
+
+![Train/Val Losses of Models](https://raw.githubusercontent.com/robuno/ml-pground-and-from-scratch/main/figures/n_gpt_losses1_nazim.png)
+
 ### CLIP
 -  Shariatnia, M. (2021, April 7). Simple Implementation of OpenAI CLIP model: A Tutorial. Medium. https://towardsdatascience.com/simple-implementation-of-openai-clip-model-a-tutorial-ace6ff01d9f2
 
