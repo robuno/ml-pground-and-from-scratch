@@ -247,8 +247,8 @@ for iter in range(max_iters):
     if iter % eval_interval == 0:
         losses = estimate_loss()
         print(f"step {iter}: train loss {losses['train']:.4f}, val loss {losses['val']:.4f}")
-        train_losses.append(losses['train'])
-        val_losses.append(losses['val'])
+        train_losses.append(float(losses['train']))
+        val_losses.append(float(losses['val']))
 
     # sample a batch of data
     xb, yb = get_batch('train')
