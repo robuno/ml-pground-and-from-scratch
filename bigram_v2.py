@@ -238,6 +238,8 @@ m = model.to(device)
 
 # create a PyTorch optimizer
 optimizer = torch.optim.AdamW(model.parameters(), lr=learning_rate)
+train_losses = []
+val_losses = []
 
 for iter in range(max_iters):
 
@@ -245,6 +247,8 @@ for iter in range(max_iters):
     if iter % eval_interval == 0:
         losses = estimate_loss()
         print(f"step {iter}: train loss {losses['train']:.4f}, val loss {losses['val']:.4f}")
+        train_losses.append(losses['train'])
+        val_losses.append(losses['val'])
 
     # sample a batch of data
     xb, yb = get_batch('train')
@@ -258,3 +262,6 @@ for iter in range(max_iters):
 # generate from the model
 context = torch.zeros((1, 1), dtype=torch.long, device=device)
 print(decode(m.generate(context, max_new_tokens=500)[0].tolist()))
+
+print("Train losses:", train_losses)
+print("Val losses:",val_losses)
