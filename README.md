@@ -7,6 +7,9 @@ Here I collect some basic ML, NN models that I wrote from scratch to learn how t
 
 ![Correlation Matrices of CLIP](https://raw.githubusercontent.com/robuno/ml-pground-and-from-scratch/main/figures/clip_corr_matrices2.png)
 
+### NanoGPT
+
+![t-SNE Plot for AE's Encoded Images](https://raw.githubusercontent.com/robuno/ml-pground-and-from-scratch/main/figures/ae-mnist-tsne-60000.png)
 
 ### NanoGPT
 
