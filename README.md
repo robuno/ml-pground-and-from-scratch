@@ -7,7 +7,8 @@ Here I collect some basic ML, NN models that I wrote from scratch to learn how t
 
 ![Correlation Matrices of CLIP](https://raw.githubusercontent.com/robuno/ml-pground-and-from-scratch/main/figures/clip_corr_matrices2.png)
 
-### NanoGPT
+### Autoencoder & Variational Autoencoder (VAE)
+- Implemented from scratch with 2 model version of AE's. First one is very simple AE with 2 conv layers, second AE is more complex taken from [Sebastian Raschka](https://github.com/rasbt/stat453-deep-learning-ss21/tree/main/L16)'s tutorial.
 
 ![t-SNE Plot for AE's Encoded Images](https://raw.githubusercontent.com/robuno/ml-pground-and-from-scratch/main/figures/ae-mnist-tsne-60000.png)
 
