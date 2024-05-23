@@ -37,3 +37,12 @@ Birden mavi gözleri haber gibi bir adam gibi yaprakla azi bulunun atmadi.
 ```
 <!-- <img width="400" height="600" src="https://raw.githubusercontent.com/robuno/ml-pground-and-from-scratch/main/figures/n_gpt_losses1_nazim.png"> -->
 ![Train/Val Losses of Models](https://raw.githubusercontent.com/robuno/ml-pground-and-from-scratch/main/figures/n_gpt_losses1_nazim.png)
+
+
+
+### Language Detection
+<!-- <img width="400" height="600" src="https://raw.githubusercontent.com/robuno/ml-pground-and-from-scratch/main/figures/n_gpt_losses1_nazim.png"> -->
+![Conf. Matrix Language Detection N=1](https://raw.githubusercontent.com/robuno/ml-pground-and-from-scratch/main/figures/detect_lang_n1.png)
+![Conf. Matrix Language Detection N=2](https://raw.githubusercontent.com/robuno/ml-pground-and-from-scratch/main/figures/detect_lang_n2.png)
+![Conf. Matrix Language Detection N=3](https://raw.githubusercontent.com/robuno/ml-pground-and-from-scratch/main/figures/detect_lang_n3.png)
+
