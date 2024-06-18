@@ -4,8 +4,6 @@ Here I collect some basic ML, NN models that I wrote from scratch to learn how t
 
 
 ### Simple Diffusion Model Analysis (Unidimensional Data with 4 categories)
-![Data ](https://raw.githubusercontent.com/robuno/ml-pground-and-from-scratch/main/figures/simple_diff/data_gen_per_time.png)
-
 Change of data according to noise addition and reverse process
 ![Change of data according to noise addition and reverse process](https://raw.githubusercontent.com/robuno/ml-pground-and-from-scratch/main/figures/simple_diff/data_gen_per_time.png)
 
