@@ -2,6 +2,21 @@
 
 Here I collect some basic ML, NN models that I wrote from scratch to learn how they works. Some of them are repetitions of codes already written in the tutorials, with new comments and code simplifications made on them. For credits, see below:
 
+
+### Simple Diffusion Model Analysis (Unidimensional Data with 4 categories)
+![Data ](https://raw.githubusercontent.com/robuno/ml-pground-and-from-scratch/main/figures/simple_diff/data_gen_per_time.png)
+
+Change of data according to noise addition and reverse process
+![Change of data according to noise addition and reverse process](https://raw.githubusercontent.com/robuno/ml-pground-and-from-scratch/main/figures/simple_diff/data_gen_per_time.png)
+
+Data Change by adding Gaussian Noise
+![Data Change by adding Gaussian Noise](https://raw.githubusercontent.com/robuno/ml-pground-and-from-scratch/main/figures/simple_diff/histogram_gaussian_noises.png)
+
+Data Change by adding Gaussian Noise
+![Mean Change wrt. Time Stamps](https://raw.githubusercontent.com/robuno/ml-pground-and-from-scratch/main/figures/simple_diff/mean_per_time.png)
+
+
+
 ### CLIP
 -  Shariatnia, M. (2021, April 7). Simple Implementation of OpenAI CLIP model: A Tutorial. Medium. https://towardsdatascience.com/simple-implementation-of-openai-clip-model-a-tutorial-ace6ff01d9f2
 
