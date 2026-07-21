@@ -1,6 +1,6 @@
 # ml-playground-and-projects-from-scratch
 
-Here I collect some basic ML, NN models that I wrote from scratch to learn how they works. Some of them are repetitions of codes already written in the tutorials, with new comments and code simplifications made on them. For credits, see below:
+Here I collect some basic ML, NN models that I wrote from scratch to learn how they work. Some of them are repetitions of codes already written in the tutorials, with new comments and code simplifications made on them. For credits, see below:
 
 
 ### Simple Diffusion Model Analysis (Unidimensional Data with 4 categories)
